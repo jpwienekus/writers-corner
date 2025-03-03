@@ -1,6 +1,6 @@
 import { Link } from "react-router"
 import { Button } from "../ui/button"
-import { Menu, Moon, Search, Sun, X } from "lucide-react"
+import { Menu, Moon, Search, Sun } from "lucide-react"
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "../ui/dropdown-menu"
 
 type HeaderProps = {

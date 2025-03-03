@@ -4,7 +4,7 @@ import { Layout } from './components/layout/Layout'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/writers-corner">
       <Routes>
         <Route path="/" element={<Layout />}>
 
